@@ -13,8 +13,4 @@
 5. Test Version : 날짜 및 시간별로 테스트를 진행해 정상적으로 동작하는 파일을 저장하는 공간
 6. Development Period : 2024-08-12 월요일 0206 ~
 7. Project Name : Dark Simulation
-   
----
-
-# PROJECT LOGO
-준비중
+8. LOGO : 준비중
