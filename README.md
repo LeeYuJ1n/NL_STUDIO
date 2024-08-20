@@ -25,3 +25,4 @@
 7. Texture(Normal) : TN_
 8. Texture(ORDp) : TORD_
 9. Game Mode Base : GMB_
+10. Static Message : SM_
