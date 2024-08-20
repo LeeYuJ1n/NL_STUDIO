@@ -22,6 +22,6 @@
 4. Level : LV_
 5. Input(입력 매핑 컨텍스트) : IMC_
 6. Texture(Albedo) : TA_
-7. Texture(Normal)TN_
+7. Texture(Normal) : TN_
 8. Texture(ORDp) : TORD_
 9. Game Mode Base : GMB_
