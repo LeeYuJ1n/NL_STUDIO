@@ -5,7 +5,7 @@
 
 ---
 
-# Dark Simulation INFORMATION
+# DARK SIMULATION - INFORMATION
 1. Planning : LeeYuJin
 2. Developer : LeeYuJin, Ares, NaEast
 3. Designer : NaEast
