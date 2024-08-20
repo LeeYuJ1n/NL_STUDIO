@@ -1,11 +1,11 @@
-# NL_STUDIO
+# ○ NL_STUDIO
 1. Unreal Engine Version : 5.1.1
 2. Design Tools : clip studio
 3. Game Genre : Indie
 
 ---
 
-# DARK SIMULATION - INFORMATION
+# ○ DARK SIMULATION - INFORMATION
 1. Planning : LeeYuJin
 2. Developer : LeeYuJin, Ares, NaEast
 3. Designer : NaEast
@@ -15,6 +15,6 @@
 7. Project Name : Dark Simulation
 8. LOGO : 준비중
 
-# FILE FORM
+# ○ FILE FORM
 1. Material : MT_
 2. Blue Print Class : BP_
