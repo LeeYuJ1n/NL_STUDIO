@@ -11,7 +11,7 @@
 2. Developer : LeeYuJin, Ares, NaEast
 3. Designer : NaEast
 <br/>
-1. Result Version : 최종 버전의 파일을 저장하는 공간
+1. Result Version : 최종 버전의 파일을 저장하는 공간<br/>
 2. Test Version : 날짜 및 시간별로 테스트를 진행해 정상적으로 동작하는 파일을 저장하는 공간
    
 ---
