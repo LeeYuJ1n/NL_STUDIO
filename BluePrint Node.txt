@@ -1,0 +1,15 @@
+○ 명칭 설명
+폰(Pawn) : 게임에서 플레이어가 조작하는 캐릭터나 객체
+
+○ 노드
+Get Player Pawn : 플레이어의 현재 폰(Pawn)을 반환하는 블루프린트 노드
+Get Actor Location : 특정 액터(Actor)의 현재 위치를 반환하는 역할
+Set Screen Resolution : 게임의 화면 해상도를 동적을 변경하는데 사용
+Apply Resolution Settings :  변경된 화면 해상도 및 기타 화면 설정을 적용하는데 사용
+Set Fullscreen Mode : 언리얼 엔진 블루플린트에서화면의 전체 화면 모드를 설정하는데 사용하는 노드
+Apply Settings : 게임의 사용자 설정(그래픽, 오디오, 입력 등)을 적용하는데 사용됩니다
+Get Player Controller : 현재 플레어이의 컨트롤러를 반환하는 노드. 특정 플레이어의 입력 및 제어 기능에 접근 가능
+Get Hit Result Under Cursor by Channel : 화면의 커서 아래에 객체의 충돌 결과를 가져오는 역할
+Break Hit Result : Hit Result 구조체를 구성하는 개별 정보를 추출하는 노드. 충돌 검사 결과로 반환된 Hit Result 구조체에서 상세 정보를 분리하여 사용 가능하게 해준다
+Set World Location and Rotation : 액터의 월드 위치와 회전을 동시에 설정하는데 사용하는 노드 액터를 특정 위치로 이동시키고, 특정 방향으로 회전 가능
+Make Rotation from Axes : Vector를 기반으로 회전을 새성하는 데 사용되는 노드. X, Y, Z 축의 방향 벡터를 입력으로 받아 해당 방향으로 기준하는 Rotator를 생성
