@@ -21,9 +21,10 @@
 3. Blue Print Class : BP_
 4. Level : LV_
 5. Input(입력 매핑 컨텍스트) : IMC_
-6. Texture : T_
-7. Texture(Albedo) : TA_
-8. Texture(Normal) : TN_
-9. Texture(ORDp) : TORD_
-10. Game Mode Base : GMB_
-11. Static Message : SM_
+6. Input(입력 액션) : IA_
+7. Texture : T_
+8. Texture(Albedo) : TA_
+9. Texture(Normal) : TN_
+10. Texture(ORDp) : TORD_
+11. Game Mode Base : GMB_
+12. Static Message : SM_
