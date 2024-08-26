@@ -19,12 +19,13 @@
 1. Material : MT_
 2. Material Instance : MTI_
 3. Blue Print Class : BP_
-4. Level : LV_
-5. Input(입력 매핑 컨텍스트) : IMC_
-6. Input(입력 액션) : IA_
-7. Texture : T_
-8. Texture(Albedo) : TA_
-9. Texture(Normal) : TN_
-10. Texture(ORDp) : TORD_
-11. Game Mode Base : GMB_
-12. Static Message : SM_
+4. Widget BluePrint : WBP_
+5. Level : LV_
+6. Input(입력 매핑 컨텍스트) : IMC_
+7. Input(입력 액션) : IA_
+8. Texture : T_
+9. Texture(Albedo) : TA_
+10. Texture(Normal) : TN_
+11. Texture(ORDp) : TORD_
+12. Game Mode Base : GMB_
+13. Static Message : SM_
