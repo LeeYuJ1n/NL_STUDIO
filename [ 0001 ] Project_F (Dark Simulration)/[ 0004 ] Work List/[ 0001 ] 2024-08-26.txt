@@ -1,0 +1,8 @@
+2024-08-26 월요일
+
+1. "First Screen" UI Widget Create
+2. "Option Screen" UI Widget Create
+3. "Option Screen" btn_Option_Back Create
+4. BGM Input
+5. Loading Level
+6. InGame Level
